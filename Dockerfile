@@ -1,4 +1,4 @@
-FROM node:14.15.2
+FROM node:14.21.3
 
 WORKDIR /app
 ADD package.json /app/
