@@ -27,15 +27,15 @@
     "typeorm:migration:run": "npm run typeorm -- migration:run"
   },
   "dependencies": {
-    "@compodoc/compodoc": "^1.1.11",
-    "@nestjs/common": "^7.5.1",
+    "@compodoc/compodoc": "^1.1.22",
+    "@nestjs/common": "^9.0.0",
     "@nestjs/config": "^0.6.1",
     "@nestjs/core": "^7.5.1",
     "@nestjs/platform-express": "^7.5.1",
     "@nestjs/swagger": "^4.7.8",
     "@nestjs/typeorm": "^7.1.5",
     "class-transformer": "^0.4.0",
-    "class-validator": "^0.13.1",
+    "class-validator": "^0.13.2",
     "compodoc": "^0.0.41",
     "dotenv": "^8.2.0",
     "env-cmd": "^10.1.0",
